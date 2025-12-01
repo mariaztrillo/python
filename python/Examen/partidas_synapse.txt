@@ -1,0 +1,7 @@
+NeoX;Principiante;120;15
+LunaCoder;Intermedio;250;30
+NeoX;Avanzado;400;45
+PixelWarrior;Principiante;90;10
+CyberNinja;Intermedio;350;40
+LunaCoder;Avanzado;500;60
+ShadowBlade;Principiante;80;12
