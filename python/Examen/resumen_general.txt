@@ -1,5 +1,0 @@
-RESUMEN GENERAL SYNAPSE GAME
-----------------------------
-Total de partidas: 7
-Total de jugadores distintos: 5
-Puntuación media global: 255.71
